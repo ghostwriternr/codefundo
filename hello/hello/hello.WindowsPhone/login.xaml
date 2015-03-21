@@ -8,7 +8,7 @@
     mc:Ignorable="d"
     Title="CAMPUS CONNEXIONS"
     PrimaryButtonText="sign in"  
-    SecondaryButtonText="cancel"
+    SecondaryButtonText="register"
     PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
     SecondaryButtonClick="ContentDialog_SecondaryButtonClick" Foreground="#FFCE9191" FontFamily="Segoe UI">
     <ContentDialog.Background>

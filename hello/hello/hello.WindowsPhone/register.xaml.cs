@@ -21,11 +21,16 @@ using Windows.UI.Xaml.Navigation;
 
 namespace hello
 {
-    public sealed partial class login : ContentDialog
+    public sealed partial class register : ContentDialog
     {
-        public login()
+        public register()
         {
             this.InitializeComponent();
+        }
+
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            // Add code to perform some action here.
         }
 
         private void ContentDialog_PrimaryButtonClick(ContentDialog sender, ContentDialogButtonClickEventArgs args)

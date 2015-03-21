@@ -8,20 +8,20 @@
     mc:Ignorable="d"
     Title="CAMPUS CONNEXIONS"
     PrimaryButtonText="sign in"  
-    SecondaryButtonText="cancel"
+    SecondaryButtonText="register"
                                                          
-                                                              Foreground="#FF5753AE" FontFamily="Segoe UI">
+                                                              Foreground="#FFCE9191" FontFamily="Segoe UI">
     <ContentDialog.Background>
-        <ImageBrush Stretch="Fill" ImageSource="Assets/purple.png"/>
+        <ImageBrush Stretch="Fill" ImageSource="Assets/wallhaven-1986.jpg"/>
     </ContentDialog.Background>
 
     <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
-        <TextBox Name="email" Header="Email address" Foreground="Black"/>
+        <TextBox Name="email" Header="Email address" Foreground="Black" Background="White" BorderBrush="White" SelectionHighlightColor="#FF0068FF"/>
         <PasswordBox  Name="password" Header="Password"/>
         <CheckBox Name="showPassword" Content="Show password"/>
 
         <!-- Content body -->
-        <TextBlock Name="body" Style="{StaticResource MessageDialogContentStyle}" TextWrapping="Wrap" Height="111" Margin="0,0,-0.333,0" Foreground="#FF19152B" FontWeight="Bold">
+        <TextBlock Name="body" Style="{StaticResource MessageDialogContentStyle}" TextWrapping="Wrap" Height="111" Margin="0,0,-0.333,0" Foreground="#FFB6B6B6" FontWeight="Bold">
             <TextBlock.Text>
                 Some super sexy big epic intro to the app with big big words even if they dont mean anyhting and even if they were typid out in less than a minute to be added here, later.
             </TextBlock.Text>
