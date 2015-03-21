@@ -40,3 +40,8 @@ C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.Windo
 C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\bin\Debug\login.xbf
+C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\login.g.i.cs
+C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\login.g.cs
+C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\login.xaml
+C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\obj\Debug\login.xbf

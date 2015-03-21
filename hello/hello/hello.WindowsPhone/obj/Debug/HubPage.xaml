@@ -74,7 +74,8 @@
         <Hub x:Name="Hub" x:Uid="Hub" Header="Campus Connexions" Background="{ThemeResource HubBackgroundImageBrush}">
             <HubSection x:Uid="HubSection1" Header="MY PROFILE" DataContext="{Binding Groups}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
                 <DataTemplate>
-                    <Image HorizontalAlignment="Center" Height="100" Margin="0,30,0,0" VerticalAlignment="Top" Width="100"/>
+                    <Image Source="Assets/ic_face_unlock_128.png" HorizontalAlignment="Center" Height="100" Margin="0,30,0,0" VerticalAlignment="Top" Width="100" Stretch="UniformToFill"/>
+                    <!--TextBlock HorizontalAlignment="Left" Margin="40,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="250" Width="300" FontFamily="Segoe UI" FontSize="36" Text="PROFILE DETAILS GO HERE."/-->
                     <!--ListView
                         ItemsSource="{Binding}"
                         IsItemClickEnabled="True"

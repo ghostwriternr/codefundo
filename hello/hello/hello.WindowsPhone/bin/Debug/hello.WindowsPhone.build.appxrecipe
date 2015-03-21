@@ -22,9 +22,15 @@
     <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\Assets\back.jpg">
       <PackagePath>Assets\back.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\Assets\ic_face_unlock_128.png">
+      <PackagePath>Assets\ic_face_unlock_128.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\Assets\purple.png">
+      <PackagePath>Assets\purple.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
@@ -69,6 +75,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\bin\Debug\HubPage.xbf">
       <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\bin\Debug\login.xbf">
+      <PackagePath>login.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ghost_000\documents\visual studio 2013\Projects\hello\hello\hello.WindowsPhone\bin\Debug\SectionPage.xbf">
       <PackagePath>SectionPage.xbf</PackagePath>

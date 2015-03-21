@@ -29,6 +29,7 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
       <RootProperty Name="ImageSource" />
+      <RootProperty Name="Stretch" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.NullExtension" />
     <RootType FullName="Windows.UI.Xaml.DataTemplate">
@@ -61,6 +62,7 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="Children" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="Text" />
@@ -68,7 +70,10 @@
       <RootProperty Name="Foreground" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="Name" />
       <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="FontWeight" />
       <RootProperty Name="CharacterSpacing" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
@@ -128,6 +133,31 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ItemsWrapGrid" />
     <RootType FullName="hello.HubPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentDialog">
+      <RootProperty Name="Title" />
+      <RootProperty Name="PrimaryButtonText" />
+      <RootProperty Name="SecondaryButtonText" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="PrimaryButtonClick" />
+      <RootEvent Name="SecondaryButtonClick" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="Foreground" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Header" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="hello.login" />
     <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
     <RootType FullName="Windows.UI.Xaml.Media.Animation.NavigationThemeTransition">
       <RootProperty Name="DefaultNavigationTransitionInfo" />

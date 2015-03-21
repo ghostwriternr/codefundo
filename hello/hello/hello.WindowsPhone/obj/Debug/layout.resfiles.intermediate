@@ -5,7 +5,9 @@ DataModel\SampleData.json
 Assets\back.jpg
 Assets\HubBackground.theme-dark.png
 Assets\HubBackground.theme-light.png
+Assets\ic_face_unlock_128.png
 Assets\Logo.scale-240.png
+Assets\purple.png
 Assets\SmallLogo.scale-240.png
 Assets\SplashScreen.scale-240.png
 Assets\Square71x71Logo.scale-240.png
@@ -15,4 +17,5 @@ App.xbf
 hello.WindowsPhone.xr.xml
 HubPage.xbf
 ItemPage.xbf
+login.xbf
 SectionPage.xbf

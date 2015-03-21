@@ -1,4 +1,4 @@
-﻿<ContentDialog
+﻿<ContentDialog x:ConnectionId='1'
     x:Class="hello.login"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -9,22 +9,23 @@
     Title="CAMPUS CONNEXIONS"
     PrimaryButtonText="sign in"  
     SecondaryButtonText="cancel"
-    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
-    SecondaryButtonClick="ContentDialog_SecondaryButtonClick" Foreground="#FFCE9191" FontFamily="Segoe UI">
+                                                         
+                                                              Foreground="#FF5753AE" FontFamily="Segoe UI">
     <ContentDialog.Background>
-        <ImageBrush Stretch="Fill" ImageSource="Assets/wallhaven-1986.jpg"/>
+        <ImageBrush Stretch="Fill" ImageSource="Assets/purple.png"/>
     </ContentDialog.Background>
 
     <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
-        <TextBox Name="email" Header="Email address" Foreground="Black" Background="White" BorderBrush="White" SelectionHighlightColor="#FF0068FF"/>
+        <TextBox Name="email" Header="Email address" Foreground="Black"/>
         <PasswordBox  Name="password" Header="Password"/>
         <CheckBox Name="showPassword" Content="Show password"/>
 
         <!-- Content body -->
-        <TextBlock Name="body" Style="{StaticResource MessageDialogContentStyle}" TextWrapping="Wrap" Height="111" Margin="0,0,-0.333,0" Foreground="#FFB6B6B6" FontWeight="Bold">
+        <TextBlock Name="body" Style="{StaticResource MessageDialogContentStyle}" TextWrapping="Wrap" Height="111" Margin="0,0,-0.333,0" Foreground="#FF19152B" FontWeight="Bold">
             <TextBlock.Text>
                 Some super sexy big epic intro to the app with big big words even if they dont mean anyhting and even if they were typid out in less than a minute to be added here, later.
             </TextBlock.Text>
         </TextBlock>
     </StackPanel>
 </ContentDialog>
+
