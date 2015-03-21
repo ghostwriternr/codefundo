@@ -1,0 +1,30 @@
+﻿<ContentDialog
+    x:Class="hello.login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:hello"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="CAMPUS CONNEXIONS"
+    PrimaryButtonText="sign in"  
+    SecondaryButtonText="cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick" Foreground="#FF5753AE" FontFamily="Segoe UI">
+    <ContentDialog.Background>
+        <ImageBrush Stretch="Fill" ImageSource="Assets/purple.png"/>
+    </ContentDialog.Background>
+
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <TextBox Name="email" Header="Email address" Foreground="Black"/>
+        <PasswordBox  Name="password" Header="Password"/>
+        <CheckBox Name="showPassword" Content="Show password"/>
+
+        <!-- Content body -->
+        <TextBlock Name="body" Style="{StaticResource MessageDialogContentStyle}" TextWrapping="Wrap" Height="111" Margin="0,0,-0.333,0" Foreground="#FF19152B" FontWeight="Bold">
+            <TextBlock.Text>
+                Some super sexy big epic intro to the app with big big words even if they dont mean anyhting and even if they were typid out in less than a minute to be added here, later.
+            </TextBlock.Text>
+        </TextBlock>
+    </StackPanel>
+</ContentDialog>

@@ -72,8 +72,9 @@
 
     <Grid x:Name="LayoutRoot">
         <Hub x:Name="Hub" x:Uid="Hub" Header="Campus Connexions" Background="{ThemeResource HubBackgroundImageBrush}">
-            <HubSection x:Uid="HubSection1" Header="MY PROFILE" DataContext="{Binding Groups}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}" Width="400">
+            <HubSection x:Uid="HubSection1" Header="MY PROFILE" DataContext="{Binding Groups}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
                 <DataTemplate>
+                    <Image HorizontalAlignment="Center" Height="100" Margin="0,30,0,0" VerticalAlignment="Top" Width="100"/>
                     <!--ListView
                         ItemsSource="{Binding}"
                         IsItemClickEnabled="True"
@@ -90,7 +91,7 @@
                 </DataTemplate>
             </HubSection>
 
-            <HubSection x:Uid="HubSection2" Header="#TRENDING" Width="400"
+            <HubSection x:Uid="HubSection2" Header="#TRENDING" Width="Auto"
                          DataContext="{Binding Groups[0]}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
                 <DataTemplate>
                     <GridView x:ConnectionId='3'
@@ -113,7 +114,7 @@
             </HubSection>
 
             <HubSection x:Uid="HubSection3" Header="#OPPORTUNITIES"
-                        DataContext="{Binding Groups[1]}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}" Width="400">
+                        DataContext="{Binding Groups[1]}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
                 <DataTemplate>
                     <ListView x:ConnectionId='2' 
                         AutomationProperties.AutomationId="ItemListViewSection3"
@@ -129,7 +130,7 @@
             </HubSection>
 
             <HubSection x:Uid="HubSection4" Header="#FUNDA"
-                        DataContext="{Binding Groups[2]}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}" Width="398">
+                        DataContext="{Binding Groups[2]}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
                 <DataTemplate>
                     <ListView x:ConnectionId='1' 
                         AutomationProperties.AutomationId="ItemListViewSection4"

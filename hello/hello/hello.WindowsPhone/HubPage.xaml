@@ -74,8 +74,7 @@
         <Hub x:Name="Hub" x:Uid="Hub" Header="Campus Connexions" Background="{ThemeResource HubBackgroundImageBrush}">
             <HubSection x:Uid="HubSection1" Header="MY PROFILE" DataContext="{Binding Groups}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}">
                 <DataTemplate>
-                    <Image HorizontalAlignment="Center" Height="100" Margin="0,40,0,0" VerticalAlignment="Top" Width="100"/>
-                </DataTemplate>
+                    <Image HorizontalAlignment="Center" Height="100" Margin="0,30,0,0" VerticalAlignment="Top" Width="100"/>
                     <!--ListView
                         ItemsSource="{Binding}"
                         IsItemClickEnabled="True"
@@ -89,7 +88,7 @@
                             </DataTemplate>
                         </ListView.ItemTemplate>
                     </-->
-                
+                </DataTemplate>
             </HubSection>
 
             <HubSection x:Uid="HubSection2" Header="#TRENDING" Width="Auto"
