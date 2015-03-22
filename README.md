@@ -1,3 +1,3 @@
 # code.fun.do
 
-'hello' folder contains the visual studio project.
+'App3' folder contains the visual studio project.

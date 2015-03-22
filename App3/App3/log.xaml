@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="App3.log"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App3"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Margin="0,-26.667,0,0">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/wallhaven-1986.jpg"/>
+        </Grid.Background>
+        <TextBox HorizontalAlignment="Left" Margin="10,34,0,0" TextWrapping="Wrap" Text="CAMPUS CONNEXIONS" VerticalAlignment="Top" TextChanged="TextBox_TextChanged" Background="Transparent" Foreground="#FFEBA7A7" FontSize="24" FontWeight="Bold" BorderBrush="Transparent"/>
+        <TextBox x:Name="email" Header="Email address" Foreground="Black" Background="White" BorderBrush="White" SelectionHighlightColor="#FF0068FF" Margin="20,96,18,0" TextChanged="email_TextChanged"/>
+        <PasswordBox  x:Name="password" Header="Password" Margin="20,179,18,0" PasswordChanged="password_PasswordChanged"/>
+        <CheckBox x:Name="showPassword" Content="Show password" Margin="20,254,0,0" Checked="showPassword_Checked"/>
+        <TextBlock x:Name="body" Style="{StaticResource MessageDialogContentStyle}" TextWrapping="Wrap" Margin="20,320,18,116" Foreground="#FFB6B6B6" FontWeight="Bold">
+            <TextBlock.Text>Some super sexy big epic intro to the app with big big words even if they dont mean anyhting and even if they were typid out in less than a minute to be added here, later.</TextBlock.Text>
+        </TextBlock>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="10,571,0,0" VerticalAlignment="Top" Height="79" Width="178" Background="#FF5B5656" Click="Button_Click_1"/>
+        <Button Content="Register" HorizontalAlignment="Left" Margin="193,571,0,0" VerticalAlignment="Top" Height="79" Width="189" Background="#FF595858" Click="Button_Click"/>
+       
+    </Grid>
+</Page>

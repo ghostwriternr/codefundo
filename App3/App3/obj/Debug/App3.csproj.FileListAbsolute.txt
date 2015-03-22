@@ -1,0 +1,138 @@
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\App.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\App.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\HubPage.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\HubPage.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\ItemPage.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\ItemPage.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\register.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\register.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\SectionPage.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\SectionPage.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\App.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\ItemPage.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\SectionPage.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\App.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\ItemPage.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\SectionPage.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\XamlSaveStateFile.xml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\HubPage.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\register.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\HubPage.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\register.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\HubPage.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\ItemPage.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\register.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\SectionPage.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App3.xr.xml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App3.exe
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App3.pdb
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\resources.pri
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\AppxManifest.xml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App3.build.appxrecipe
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\App3.exe
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\App3.pdb
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\priconfig.xml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\priconfig.xml.intermediate
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\layout.resfiles
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\layout.resfiles.intermediate
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\resources.resfiles
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\resources.resfiles.intermediate
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\pri.resfiles
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\pri.resfiles.intermediate
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\qualifiers.txt
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\qualifiers.txt.intermediate
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\ProjectArchitectures.txt
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\log.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\log.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\log.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\log.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\log.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\reg.g.i.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\reg.g.cs
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\reg.xaml
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\obj\Debug\reg.xbf
+c:\users\ghost_000\documents\visual studio 2013\Projects\App3\App3\bin\Debug\reg.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\App3.exe.config
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\App.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\reg.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\HubPage.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\ItemPage.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\log.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\register.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\SectionPage.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\App3.xr.xml
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\App3.exe
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\App3.pdb
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\resources.pri
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\AppxManifest.xml
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\App3.build.appxrecipe
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Krishna_2\Desktop\App3\App3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\reg.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\reg.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\HubPage.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\HubPage.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\ItemPage.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\ItemPage.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\log.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\log.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\register.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\register.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\SectionPage.g.i.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\SectionPage.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\reg.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\HubPage.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\ItemPage.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\register.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\SectionPage.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\reg.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\HubPage.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\ItemPage.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\register.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\SectionPage.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\log.xaml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\log.xbf
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App3.exe
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App3.pdb
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\priconfig.xml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\layout.resfiles
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\resources.resfiles
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\pri.resfiles
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\qualifiers.txt
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Krishna_2\Desktop\App3\App3\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
